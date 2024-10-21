@@ -1,0 +1,6 @@
+.main-content {
+  display: flex;             /* Usar flexbox */
+  justify-content: center;   /* Centrar horizontalmente */
+  align-items: center;       /* Centrar verticalmente (opcional, si hay altura) */
+  height: 100vh;            /* O establece una altura específica si lo deseas */
+}

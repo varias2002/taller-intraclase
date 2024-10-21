@@ -1,0 +1,11 @@
+.main-content {
+    height: 50vh; /* Ajusta la altura de la ventana */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: flex-start; /* Alinea en la parte superior */
+}
+
+.banner-image {
+    max-width: 100%; /* Asegura que la imagen sea responsiva */
+    height: auto;
+}
